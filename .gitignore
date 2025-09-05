@@ -1,0 +1,5 @@
+translator.app
+translator
+config.json
+.DS_Store
+.env
